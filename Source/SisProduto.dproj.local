@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/30 18:37:45.000.133,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 11:52:00.189,=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 11:53:44.201,C:\Prova\Source\Forms\UMain.pas=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 11:53:44.201,C:\Prova\Source\Forms\UMain.dfm=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/10/01 11:53:54.883,C:\Prova\Source\SisProduto.dproj=C:\Users\Leandro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/10/01 11:55:30.903,=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 11:57:28.693,C:\Prova\Source\DM\UDmMain.pas=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 11:57:28.693,C:\Prova\Source\DM\UDmMain.dfm=C:\Prova\Source\Unit1.dfm</Transaction>
+    <Transaction>2023/10/01 11:58:48.820,=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 11:59:13.433,C:\Prova\Source\Forms\UCategoria.pas=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 11:59:13.433,C:\Prova\Source\Forms\UCategoria.dfm=C:\Prova\Source\Unit1.dfm</Transaction>
+    <Transaction>2023/10/01 12:07:52.872,=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 12:09:30.527,C:\Prova\Source\Forms\UProduto.pas=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 12:09:30.527,C:\Prova\Source\Forms\UProduto.dfm=C:\Prova\Source\Unit1.dfm</Transaction>
+    <Transaction>2023/10/01 14:15:06.300,=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 14:16:58.828,C:\Prova\Source\Forms\UConsultaProduto.pas=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 14:16:58.828,C:\Prova\Source\Forms\UConsultaProduto.dfm=C:\Prova\Source\Unit1.dfm</Transaction>
+    <Transaction>2023/10/01 14:33:24.623,=C:\Prova\Source\Unit1.pas</Transaction>
+    <Transaction>2023/10/01 14:34:34.830,C:\Prova\Source\Forms\URelProduto.dfm=C:\Prova\Source\Unit1.dfm</Transaction>
+    <Transaction>2023/10/01 14:34:34.830,C:\Prova\Source\Forms\URelProduto.pas=C:\Prova\Source\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
